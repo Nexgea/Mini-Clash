@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: d2d59e424e21dc740909c3baeef67182
+timeCreated: 1462376928
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Swimmer 2 Spritesheet_0
+    21300002: Swimmer 2 Spritesheet_1
+    21300004: Swimmer 2 Spritesheet_2
+    21300006: Swimmer 2 Spritesheet_3
+    21300008: Swimmer 2 Spritesheet_4
+    21300010: Swimmer 2 Spritesheet_5
+    21300012: Swimmer 2 Spritesheet_6
+    21300014: Swimmer 2 Spritesheet_7
+    21300016: Swimmer 2 Spritesheet_9
+    21300018: Swimmer 2 Spritesheet_10
+    21300020: Swimmer 2 Spritesheet_11
+    21300022: Swimmer 2 Spritesheet_12
+    21300024: Swimmer 2 Spritesheet_13
+    21300026: Swimmer 2 Spritesheet_14
+    21300028: Swimmer 2 Spritesheet_15
+    21300030: Swimmer 2 Spritesheet_16
+    21300032: Swimmer 2 Spritesheet_17
+    21300034: Swimmer 2 Spritesheet_18
+    21300036: Swimmer 2 Spritesheet_19
+    21300038: Swimmer 2 Spritesheet_20
+    21300040: Swimmer 2 Spritesheet_21
+    21300042: Swimmer 2 Spritesheet_22
+    21300044: Swimmer 2 Spritesheet_23
+    21300046: Swimmer 2 Spritesheet_24
+    21300048: Swimmer 2 Spritesheet_25
+    21300050: Swimmer 2 Spritesheet_26
+    21300052: Swimmer 2 Spritesheet_27
+    21300054: Swimmer 2 Spritesheet_28
+    21300056: Swimmer 2 Spritesheet_29
+    21300058: Swimmer 2 Spritesheet_30
+    21300060: Swimmer 2 Spritesheet_31
+    21300062: Swimmer 2 Spritesheet_32
+    21300064: Swimmer 2 Spritesheet_33
+    21300066: Swimmer 2 Spritesheet_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Swimmer 2 Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 45
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 32
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.335083, y: 1.5571537}
+        - {x: 39.335083, y: 1.5571537}
+        - {x: 39.335083, y: 20.557154}
+        - {x: 37.335083, y: 22.557154}
+        - {x: 0.335083, y: 22.557154}
+        - {x: -24.664917, y: 17.557154}
+        - {x: -38.664917, y: 11.557154}
+        - {x: -38.664917, y: -5.4428463}
+        - {x: -35.664917, y: -8.442846}
+        - {x: -17.664917, y: -15.442846}
+        - {x: 10.335083, y: -21.442846}
+        - {x: 37.335083, y: -21.442846}
+        - {x: 39.335083, y: -19.442846}
+        - {x: 39.335083, y: 0.5571537}
+        - {x: 37.335083, y: 1.5571537}
+    - name: Swimmer 2 Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 29
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.812744, y: 25.348671}
+        - {x: -25.187256, y: 16.348671}
+        - {x: -39.187256, y: 7.348671}
+        - {x: -39.187256, y: -4.651329}
+        - {x: -37.187256, y: -9.651329}
+        - {x: 3.8127441, y: -24.651329}
+        - {x: 39.812744, y: -24.651329}
+        - {x: 39.812744, y: 25.348671}
+    - name: Swimmer 2 Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 29
+        width: 107
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.237183, y: 12.348671}
+        - {x: -39.237183, y: -9.651329}
+        - {x: -38.237183, y: -12.651329}
+        - {x: -6.2371826, y: -24.651329}
+        - {x: 38.762817, y: -24.651329}
+        - {x: 40.762817, y: -22.651329}
+        - {x: 40.762817, y: 25.348671}
+        - {x: -24.237183, y: 25.348671}
+        - {x: -27.237183, y: 24.348671}
+    - name: Swimmer 2 Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.287109, y: 45.73616}
+        - {x: -33.28711, y: 17.73616}
+        - {x: -33.28711, y: -25.26384}
+        - {x: -9.287109, y: -44.26384}
+        - {x: 23.71289, y: -44.26384}
+        - {x: 33.71289, y: -31.26384}
+        - {x: 33.71289, y: 45.73616}
+    - name: Swimmer 2 Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 20
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.351807, y: 32.72322}
+        - {x: -33.351807, y: 12.723221}
+        - {x: -33.351807, y: -10.276779}
+        - {x: -28.351807, y: -31.27678}
+        - {x: 2.6481934, y: -31.27678}
+        - {x: 33.648193, y: -11.276779}
+        - {x: 33.648193, y: 12.723221}
+        - {x: 1.6481934, y: 32.72322}
+    - name: Swimmer 2 Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 31
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.68042, y: -13.679007}
+        - {x: -6.68042, y: -13.679007}
+        - {x: -6.68042, y: -15.679007}
+        - {x: -4.68042, y: -17.679007}
+        - {x: -2.68042, y: -17.679007}
+        - {x: -0.6804199, y: -15.679007}
+        - {x: -0.6804199, y: -13.679007}
+        - {x: 0.31958008, y: -14.679007}
+        - {x: -1.6804199, y: -19.679007}
+        - {x: -4.68042, y: -18.679007}
+        - {x: -6.68042, y: -20.679007}
+        - {x: -6.68042, y: -22.679007}
+        - {x: 16.31958, y: -22.679007}
+        - {x: 33.31958, y: -14.679007}
+        - {x: 33.31958, y: 20.320993}
+        - {x: 21.31958, y: 24.320993}
+        - {x: -31.68042, y: 24.320993}
+        - {x: -31.68042, y: -22.679007}
+        - {x: -10.68042, y: -22.679007}
+        - {x: -6.68042, y: -19.679007}
+        - {x: -8.68042, y: -13.679007}
+    - name: Swimmer 2 Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 36
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.217407, y: 20.501799}
+        - {x: -32.217407, y: 7.5017986}
+        - {x: -32.217407, y: -5.4982014}
+        - {x: -24.217407, y: -12.498201}
+        - {x: -9.217407, y: -19.498201}
+        - {x: 22.782593, y: -19.498201}
+        - {x: 32.782593, y: -15.498201}
+        - {x: 32.782593, y: 11.501799}
+        - {x: 27.782593, y: 20.501799}
+    - name: Swimmer 2 Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 45
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 45
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 45
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 44
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 44
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 41
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3238525, y: 16.682604}
+        - {x: -21.323853, y: 9.682604}
+        - {x: -21.323853, y: -9.317396}
+        - {x: 1.6761475, y: -16.317396}
+        - {x: 21.676147, y: -16.317396}
+        - {x: 21.676147, y: 16.682604}
+    - name: Swimmer 2 Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 41
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5543213, y: 16.682604}
+        - {x: -17.445679, y: 8.682604}
+        - {x: -17.445679, y: -9.317396}
+        - {x: 0.5543213, y: -15.317396}
+        - {x: 2.5543213, y: -16.317396}
+        - {x: 18.554321, y: -16.317396}
+        - {x: 18.554321, y: 16.682604}
+    - name: Swimmer 2 Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 41
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 39
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 39
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6297607, y: 18.210281}
+        - {x: -15.370239, y: 18.210281}
+        - {x: -18.37024, y: 17.210281}
+        - {x: -18.37024, y: -11.789719}
+        - {x: -12.370239, y: -16.789719}
+        - {x: 6.6297607, y: -16.789719}
+        - {x: 19.62976, y: -3.7897186}
+        - {x: 19.62976, y: 5.2102814}
+        - {x: 17.62976, y: 9.210281}
+    - name: Swimmer 2 Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 39
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.881348, y: 18.210281}
+        - {x: -18.881348, y: -15.789719}
+        - {x: -17.881348, y: -16.789719}
+        - {x: 6.1186523, y: -16.789719}
+        - {x: 17.118652, y: -12.789719}
+        - {x: 19.118652, y: -8.789719}
+        - {x: 19.118652, y: 8.210281}
+        - {x: 2.1186523, y: 18.210281}
+    - name: Swimmer 2 Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 52
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 44
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 43
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 43
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Swimmer 2 Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 37
+        width: 90
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.09240723, y: 18.737959}
+        - {x: -30.092407, y: 10.737959}
+        - {x: -33.092407, y: 7.737959}
+        - {x: -33.092407, y: -0.2620411}
+        - {x: -30.092407, y: -12.262041}
+        - {x: -2.0924072, y: -18.262041}
+        - {x: 29.907593, y: -18.262041}
+        - {x: 33.907593, y: -14.262041}
+        - {x: 33.907593, y: 13.737959}
+        - {x: 31.907593, y: 18.737959}
+    - name: Swimmer 2 Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 37
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.6571045, y: 18.737959}
+        - {x: -31.657104, y: 13.737959}
+        - {x: -34.657104, y: 7.737959}
+        - {x: -34.657104, y: -13.262041}
+        - {x: 3.3428955, y: -18.262041}
+        - {x: 26.342896, y: -18.262041}
+        - {x: 35.342896, y: -7.262041}
+        - {x: 35.342896, y: 11.737959}
+        - {x: 32.342896, y: 18.737959}
+    - name: Swimmer 2 Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 37
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.2771, y: 18.737959}
+        - {x: -34.2771, y: 16.737959}
+        - {x: -34.2771, y: -1.2620411}
+        - {x: -30.2771, y: -13.262041}
+        - {x: -7.2770996, y: -18.262041}
+        - {x: 26.7229, y: -18.262041}
+        - {x: 34.7229, y: -7.262041}
+        - {x: 34.7229, y: 10.737959}
+        - {x: 28.7229, y: 18.737959}
+    - name: Swimmer 2 Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 37
+        width: 90
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.133301, y: 18.737959}
+        - {x: -33.1333, y: 12.737959}
+        - {x: -33.1333, y: -8.262041}
+        - {x: -31.1333, y: -11.262041}
+        - {x: -9.133301, y: -18.262041}
+        - {x: 29.8667, y: -18.262041}
+        - {x: 33.8667, y: -10.262041}
+        - {x: 33.8667, y: 16.737959}
+        - {x: 30.8667, y: 18.737959}
+    - name: Swimmer 2 Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 37
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.802002, y: 18.737959}
+        - {x: -22.197998, y: 18.737959}
+        - {x: -37.197998, y: 14.737959}
+        - {x: -37.197998, y: -10.262041}
+        - {x: -36.197998, y: -11.262041}
+        - {x: -6.197998, y: -18.262041}
+        - {x: 24.802002, y: -18.262041}
+        - {x: 37.802002, y: -8.262041}
+        - {x: 37.802002, y: 8.737959}
+        - {x: 36.802002, y: 10.737959}
+    - name: Swimmer 2 Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 40
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.754395, y: -8.053558}
+        - {x: -19.754395, y: -17.053558}
+        - {x: 33.245605, y: -17.053558}
+        - {x: 33.245605, y: 11.946442}
+        - {x: 29.245605, y: 17.946442}
+        - {x: -11.754395, y: 17.946442}
+        - {x: -31.754395, y: 12.946442}
+    - name: Swimmer 2 Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
